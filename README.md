@@ -20,3 +20,7 @@ Interactive dashboard with KPIs, charts, filters and visualizations to understan
 
 📁 Project File
 Power-BI-Road-Accident-Dashboard.pbix
+
+## 📸 Dashboard Preview
+
+![Road Accident Dashboard](Scr.png)
